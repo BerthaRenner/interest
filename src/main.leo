@@ -35,3 +35,4 @@ program interest.aleo {
         return amount;
     }
 }
+ 
